@@ -9,7 +9,9 @@ Takım 185
 - Furkan Selçuk: Product Owner
 
 
-## Ürün İsmi
+
+## Ürün İsmi![img1]
+
 
 --Quiz App--
 
@@ -54,8 +56,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3]
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
-  ![Screenshot 2]
+  ![Screenshot 1]![im3](https://user-images.githubusercontent.com/99053020/170058430-d003babd-d83a-4c84-96cc-f7e7fb5e3257.jpg)
+  ![Screenshot 2](https://user-images.githubusercontent.com/99053020/170058451-78a12cf2-e494-4123-9ec6-3630f26eefd2.jpg)
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
