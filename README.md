@@ -56,8 +56,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3]
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]![im3](https://user-images.githubusercontent.com/99053020/170058430-d003babd-d83a-4c84-96cc-f7e7fb5e3257.jpg)
-  ![Screenshot 2](https://user-images.githubusercontent.com/99053020/170058451-78a12cf2-e494-4123-9ec6-3630f26eefd2.jpg)
+  ![img1](https://user-images.githubusercontent.com/99053020/170058867-89625129-9af9-44cd-a89f-96f454837dcb.jpg)
+  ![img2](https://user-images.githubusercontent.com/99053020/170058879-77838604-28d2-44ed-aadb-6c8d4e0f89b8.jpg)
+  ![im3](https://user-images.githubusercontent.com/99053020/170058912-39a42eb0-6c74-438a-8709-c6594f7ef9bc.jpg) 
+  ![img4](https://user-images.githubusercontent.com/99053020/170058950-ba4ab6cf-8f67-4a16-b492-3e55f576854e.jpg)
+  ![img5](https://user-images.githubusercontent.com/99053020/170058973-89729139-08f7-4791-90a7-5b464245093e.jpg)
+  ![img6](https://user-images.githubusercontent.com/99053020/170058993-3208fad8-bc88-45be-956e-c35f47db370c.jpg)
+  ![img7](https://user-images.githubusercontent.com/99053020/170059014-c586343c-ef83-4dd0-9c11-4cd31b3ed9b8.jpg)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
