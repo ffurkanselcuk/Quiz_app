@@ -1,37 +1,32 @@
 # **Takım İsmi**
 
-Takım X
+Takım 185 
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Furkan Selçuk: Product Owner
+
 
 ## Ürün İsmi
 
---Movie App--
+--Quiz App--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
-
+- Uygulamamda her yaş aralığının da hakim olacağı soruların bulunduğu ve soruları çözerek eğlendiği bir bilgi yarışmasına benzer bir platform kuracağım.
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+-Soru cevağladıkça puan kazanıyorsunuz.
+-3 yanlış hakkınız var. 3 haktan sonra kaybediyorsunuz ve puanı görüntülüyorsunuz.
+-İsterseniz ek olarak puanınızın görüldüğü ekrandan sonra soru ekleyebiliyorsunuz.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+-Soru çözmeyi seven topluluklar
+-Genel bilgisini geliştirmek isteyenler
+-Yaş aralığı farketmeksizin her yaştan kitleye açık ve kullanışlı bir uygulama.
 
 ## Product Backlog URL
 
