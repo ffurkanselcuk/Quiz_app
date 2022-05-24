@@ -18,15 +18,15 @@ Takım 185
 - Uygulamamda her yaş aralığının da hakim olacağı soruların bulunduğu ve soruları çözerek eğlendiği bir bilgi yarışmasına benzer bir platform kuracağım.
 ## Ürün Özellikleri
 
-- Soru cevağladıkça puan kazanıyorsunuz.
+- Soru cevapladıkça puan kazanıyorsunuz.
 - 3 yanlış hakkınız var. 3 haktan sonra kaybediyorsunuz ve puanı görüntülüyorsunuz.
 - İsterseniz ek olarak puanınızın görüldüğü ekrandan sonra soru ekleyebiliyorsunuz.
 
 ## Hedef Kitle
 
--Soru çözmeyi seven topluluklar
--Genel bilgisini geliştirmek isteyenler
--Yaş aralığı farketmeksizin her yaştan kitleye açık ve kullanışlı bir uygulama.
+- Soru çözmeyi seven topluluklar
+- Genel bilgisini geliştirmek isteyenler
+- Yaş aralığı farketmeksizin her yaştan kitleye açık ve kullanışlı bir uygulama.
 
 ## Product Backlog URL
 
