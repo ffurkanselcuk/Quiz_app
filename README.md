@@ -32,9 +32,7 @@ Takım 185
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
-
----
+[Miro Backlog Board](https://miro.com/welcomeonboard/bGhvclREVGFkYnVRRkdoSEQxNTMwVWlJM0hjUFhvMGppSzVDTXFtaWhVdnY0OE1ZdlBJZjF6NkZEazgzQmFJZnwzNDU4NzY0NTI2MDg3MzczOTQ1?share_link_id=125371523396)
 
 # Sprint 1
 
